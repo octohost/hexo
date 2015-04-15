@@ -13,5 +13,3 @@ cd hexo
 git remote add octohost git@ip.address.here:hexo.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://hexo.octohost.io](http://hexo.octohost.io)
